@@ -3,7 +3,7 @@
   "version": "0.3.3",
   "description": "run commands on gitlab webhook signals.",
   "main": "main.js",
-  "author": "Lionel Cuevas",
+  "author": "Lionel Cuevas <liocuevas@gmail.com>",
   "license": "LGPL",
   "dependencies": {
     "gitlabhook": "0.0.11",
