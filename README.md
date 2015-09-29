@@ -11,7 +11,7 @@ Currently, it runs on GNU/Linux and BSD OSes only.
 # Installation
 
 * `cd any-installation-dir`
-* `git clone https://github.com/NewWaveWeb/gitlab-webhook-deployer.git `
+* `git clone https://github.com/liocuevas/gitlab-webhook-deployer.git `
 * `cd gitlab-webhook-deployer`
 * `npm install`
 
