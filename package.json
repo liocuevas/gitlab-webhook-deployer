@@ -1,0 +1,23 @@
+{
+  "name": "gitlab-webhook-deployer",
+  "version": "0.3.3",
+  "description": "run commands on gitlab webhook signals.",
+  "main": "main.js",
+  "author": "New Wave Web",
+  "license": "LGPL",
+  "dependencies": {
+    "gitlabhook": "0.0.11",
+    "sprintf-js": "0.0.7"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/NewWaveWeb/gitlab-webhook-deployer.git"
+  },
+  "devDependencies": {
+  },
+  "keywords" : [
+    "gitlab",
+    "pull",
+    "webhook"
+  ]
+}
